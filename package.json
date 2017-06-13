@@ -2,7 +2,7 @@
   "version": "0.5.5",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "SSH2 client and server modules written in pure JavaScript for node.js",
-  "main": "./dist/lib",
+  "main": "./dist/lib.js",
   "engines": { "node": ">=0.10.0" },
   "dependencies": {
     "ssh2-streams": "~0.1.18"
